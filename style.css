@@ -5,4 +5,16 @@ body {
 
 h1 {
   color: red;
+}
+
+h2 {
+  color: red;
+}
+
+.container {
+  margin: 10px;
+}
+
+h2 {
+  font-size: 20px;
 }/*# sourceMappingURL=style.css.map */
